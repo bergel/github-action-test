@@ -1,2 +1,3 @@
 echo This is a new script
-echo $((2 * 3.1415))
+ls -all
+echo $PWD
